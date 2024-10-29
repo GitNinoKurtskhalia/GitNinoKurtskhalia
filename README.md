@@ -27,7 +27,7 @@
 
 ## 📈 Experience / Education
 
-- **Education**: MA in [Human Sciences] from [The Technical Univeristy of Georgia]
+- **Education**: MA in [Human Sciences] from [The Technical Univeristy of Georgia], 
                  MA in [International Relations] from [The Ilia State University Tbilisi]
 **Trainings/Courses in Programming**:
 - Front End Development since 08.2024
@@ -47,6 +47,6 @@
 
 
 
-- 
+  
 
 
