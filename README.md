@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there 👋  I'm [Nino Kurtskhalia]
 
-<!--
-**GitNinoKurtskhalia/GitNinoKurtskhalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Passionate about Creating Impactful Applications
 
-Here are some ideas to get you started:
+[LinkedIn](www.linkedin.com/in/nino-kurtskhalia-8143ba44) • [Portfolio](link)
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: JavaScript, Python, Html, CSS
+- **Frameworks**: Django
+- **Databases**: MySQL, MongoDB
+- **Tools**: Git, Docker
+
+---
+
+## 💼 Projects
+
+### [Project Name](link to repo)
+**Description**: A brief project description.
+**Tech Stack**: React, Node.js, MongoDB
+**Features**:
+- Feature 1
+- Feature 2
+- Feature 3
+**Demo**: [Live Demo](link)
+
+---
+
+## 📈 Experience / Education
+
+- **Education**: Bachelor’s in [Major] from [University]
+- 
+
+
